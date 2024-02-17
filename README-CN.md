@@ -1,5 +1,7 @@
 # Minecraft-Server-Command-Inspector（CommandInspector）🔍
 
+自述文档语言: [English](./README.md) | [简体中文](./README-CN.md)
+
 ## 这是什么? 🤔
 
 假设你的服务器运行在Paper服务端，并且你安装了大量的服务器插件，这会导致一个后果：同一个指令可能被多个插件注册并且监听。🤹
