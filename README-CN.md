@@ -14,6 +14,10 @@
 * **权限控制**：只有拥有`CommandInspector.use`权限的玩家或管理员才能使用此指令，保障服务器安全。
 * **简单易用**：通过简单的命令，即可获取全面的插件指令信息。
 
+## 下载插件 📦
+
+Github: [https://github.com/Evil0ctal/Minecraft-Server-Command-Inspector/releases](https://github.com/Evil0ctal/Minecraft-Server-Command-Inspector/releases)
+
 ## 安装指南 🛠️
 
 1. 确保您的服务器运行在**Paper**作为服务器后端。
