@@ -16,8 +16,9 @@ For instance, when the CMI plugin is installed alongside EssentialsX or the Adva
 
 ## Download plugin 📦
 
-Github: [https://github.com/Evil0ctal/Minecraft-Server-Command-Inspector/releases](https://github.com/Evil0ctal/Minecraft-Server-Command-Inspector/releases)
-Spigotmc: [https://www.spigotmc.org/resources/minecraft-server-command-inspector-commandinspector.115121/](https://www.spigotmc.org/resources/minecraft-server-command-inspector-commandinspector.115121/)
+- Github: [https://github.com/Evil0ctal/Minecraft-Server-Command-Inspector/releases](https://github.com/Evil0ctal/Minecraft-Server-Command-Inspector/releases)
+
+- Spigotmc: [https://www.spigotmc.org/resources/minecraft-server-command-inspector-commandinspector.115121/](https://www.spigotmc.org/resources/minecraft-server-command-inspector-commandinspector.115121/)
 
 ## Installation Guide 🛠️
 
