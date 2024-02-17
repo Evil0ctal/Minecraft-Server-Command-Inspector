@@ -14,6 +14,10 @@ For instance, when the CMI plugin is installed alongside EssentialsX or the Adva
 * **Permission Control**: Only players or admins with the`CommandInspector.use` permission can use this command, ensuring server security.
 * **Ease of Use**: With a simple command, you can obtain comprehensive information about plugin commands.
 
+## Download plugin 📦
+
+Github: [https://github.com/Evil0ctal/Minecraft-Server-Command-Inspector/releases](https://github.com/Evil0ctal/Minecraft-Server-Command-Inspector/releases)
+
 ## Installation Guide 🛠️
 
 1. Ensure your server is running on**Paper** as the server backend.
